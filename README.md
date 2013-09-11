@@ -7,4 +7,6 @@ This game can be defined as a simple puzzle/brain game, to learn how to play it,
 
 This game is developed by Emin KURA by using Javascript and Raphael JS library. 
 
-I have updated the code to render the game object inside a dom element (DIV).
+I have updated the code to render the game object inside a dom element (DIV). 
+
+Reach me @ sesubash@gmail.com
