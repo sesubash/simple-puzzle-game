@@ -7,6 +7,9 @@ This game can be defined as a simple puzzle/brain game, to learn how to play it,
 
 This game is developed by Emin KURA by using Javascript and Raphael JS library. 
 
+check the original commit in the link 
+https://code.google.com/p/simple-puzzle-game/
+
 I have updated the code to render the game object inside a dom element (DIV). 
 
 Reach me @ sesubash@gmail.com
